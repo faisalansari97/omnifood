@@ -1,0 +1,69 @@
+
+
+/*------------ media with screen 1024 to 1200px ----------*/ 
+
+@media only screen and (max-width:1200px){
+    h1{padding-left: 5%; padding-top: 7%;}
+   a.btn.btn-hun {margin-left: 5%;}
+    h3{white-space: normal;}
+    .section-features.row.col{padding-left: 13%;}
+}
+
+@media only screen and (max-width:1130px){
+    .main-nav li{float:left;}
+}
+@media only screen and (max-width:1114px){
+    .main-nav li{float:left; font-size:95%;}
+    h1{font-size:185%;}
+    a.btn{font-size:95%;}
+}
+
+
+@media only screen and (max-width:1090px){
+    .logo{height: 180px;}
+}
+
+@media only screen and (max-width:1070px){
+    .logo{height: 175px;}
+    .hero-row-textbox{padding: 20px;}
+}
+
+
+
+
+
+/*------------ media with screen 768 to 1023px ----------*/ 
+
+@media only screen and (max-width:1023px){
+    h1{font-size: 175%; padding-left: 10%;}
+    a.btn.btn-hun{margin-left: 10%;}
+    .main-nav li{float: left; font-size:80%;}
+    .logo{height: 175px;}
+    a.btn{font-size:90%;}
+    .section-features{font-size: 90%;}
+    .section-steps{font-size:90%;}
+    .section-cities{font-size:90%;}
+    .customer-testimonials{font-size: 90%;}
+    cite img{width:20%;}
+    .section-plans{font-size:90%;}
+    .contact-form{font-size:90%;}
+    .footer{font-size:90%;}
+    .nav-link li, .copyright{font-size:80%;}
+    .social-link img{width:12%;}
+}
+
+
+
+/*------------ media with screen 481 to 767px ----------*/ 
+
+@media only screen and (max-width:767px){
+    
+}
+
+
+
+/*------------ media with screen 0 to 480px ----------*/ 
+
+@media only screen and (max-width:480px){
+    
+}
